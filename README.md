@@ -1,13 +1,17 @@
 Experiment – 10
+
 Title: Creation, Storage, and Loading of Datasets using Pandas
+
 Name: Pushpak Jagtap
+
 PRN: 25070123148
+
 Batch: 2025–2029
 
 Aim
 To study the process of manual dataset creation in Python and understand the methodologies for loading, exporting, and performing initial structural analysis on external data files.
 
-Objectives
+
 Objectives
 - Construct a DataFrame from raw Python dictionaries
 - Explore file export formats including CSV and Excel
@@ -33,7 +37,7 @@ Before analysis, understanding dataset structure is essential. Pandas provides:
 - Position-based Selection: Using .iloc for integer-based indexing.
 - Slicing: head() previews initial records, tail() checks trailing rows.
 - Schema Modification: Add/drop columns, apply aggregate functions (min(), max()).
-Applications in Engineering
+-Applications in Engineering
 - Sensor Data Logging: Collecting and structuring real-time signals into timestamped datasets.
 - Network Analysis: Loading server logs to analyze traffic patterns.
 - Market Analysis: Comparing hardware prices/specifications for procurement optimization.
