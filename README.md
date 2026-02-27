@@ -37,6 +37,10 @@ Before analysis, understanding dataset structure is essential. Pandas provides:
 - Position-based Selection: Using .iloc for integer-based indexing.
 - Slicing: head() previews initial records, tail() checks trailing rows.
 - Schema Modification: Add/drop columns, apply aggregate functions (min(), max()).
+
+
+
+
 -Applications in Engineering
 - Sensor Data Logging: Collecting and structuring real-time signals into timestamped datasets.
 - Network Analysis: Loading server logs to analyze traffic patterns.
